@@ -27,7 +27,7 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"Your timing has improved by three point eight seconds. A small, but suggestive difference. You are gaining more control it would seem," Uni responds, while zooming in to scan the rock. "Curious, the rock appears to be emitting a small amount of energy, which was not present before being used. It appears to be dwindling as time goes by however."
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Before Viktoria could respond, a loud crack of lightning rn out above them. The vaguely red tinted skies hinted that somewhat normal weather patterns could occur, however Viktoria had yet to experience anything beyond cloudy, bleak weather conditions. It almost reminded her of the trip to London when she was 16. Only, in London there weren't demons from another galaxy hunting her down then.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Before Viktoria could respond, a loud crack of lightning rung out above them. The vaguely red tinted skies hinted that somewhat normal weather patterns could occur, however Viktoria had yet to experience anything beyond cloudy, bleak weather conditions. It almost reminded her of the trip to London when she was 16. Only, in London there weren't demons from another galaxy hunting her down then.
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"I would suggest we find a better shelter, it appears this weather system is rapidly increasing in intensity, and it is likely we will be experiencing hail within a few mome-" Before Uni could finish, a golf-ball sized piece of hail struck the concrete besides Viktoria.
 
