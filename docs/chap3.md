@@ -4,6 +4,8 @@
 
 **11/8/18**
 
+*Albania, 2026*
+
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Lara had been walking home from the hospital for the better part of an hour now, her feet sore, her eyes were weary, but most unfortunate of all, her mind was shattered. She was worried about Viktoria, suddenly slipping into a coma for seemingly no reason. Viktoria had been lucky Lara was visiting her the day she slipped into her slumber, otherwise God knows what might have occurred. To make matters worse, political tensions were growing in Albania. They hadn’t always been peaceful, hell they’d been ramping up slightly over the course of the last few months. But last night, an assassination attempt made on President Prifti truly marked what could be a truly devastating uprising. Albania was by no means a large country, narrowing in towards 3,000,000 people in population. Lara was worried, because she knew that if the government fell, she and her family were at risk.
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Arriving at the main entrance of her apartment, she stopped for a moment to look around. The short hedges that surrounded the building seemed slightly less green today, the leaves on the trees drooped, the flowers wilted, to Lara at least. Her building, normally a brilliant white seemed to blend in with the greying clouds above her. Sighing, she walked inside, dragging her feet as she made her way to her home. The floor was covered in crumpled newspapers, and the sheets on her bed were left unmade. The place was messy, she hadn’t been able to focus enough to clean it properly the last week. She still had a bed to sleep in, a roof over her head, and enough food to last at least two more weeks, do the dishes and she’ll be fine, she had figured.
@@ -25,6 +27,8 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“Viktoria’s fine, but…” Her mother stopped talking as she fought back a sob. “Your father… Your father’s been shot Lara.”
 
 -----
+
+*Tessere, 3046*
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Viktoria had her rifle in hand now, preparing to use it in case the demons got close. Her blood ran cold with fear, but she didn’t let it stop her from escaping what would be certain death. Scrambling to her feet, Viktoria and Uni sprinted, or floated in Uni’s case, away from the campsite they had built. Either way, this was troublesome, as the Demons would know that someone was here and alive. The world, as Viktoria would come to know, was terraformed in a matter of weeks to better suite the presence of Demons. Humans by this point had all but been wiped away from the world.
 
