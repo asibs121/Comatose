@@ -40,6 +40,6 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Veronika got back on her feet, feeling nauseous, but slightly better than before. All she wanted was answers, and while she still felt sick to her stomach, she knew no answers would come through sitting and crying, as much as every muscle in her body wanted to. Unit 312 hadn’t done anything to harm her yet and seemed like it wanted to help however it could.
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“I think I need to find some supplies to survive, can you stay with me?” Veronika asked the machine.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“I think I need to find some supplies to survive, can you stay with me?” Veronika asked the machine, which only nodded in response.
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Veronika smiled, wiping the tears from her eyes, as she walked away from her nook, Unit 312 trailing behind her. Maybe she had a chance after all in this strange world.
