@@ -14,6 +14,8 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;All Lara could do was stare in shock, as the nurse shut the door in Lara's face. Something was seriously wrong...
 
+---
+
 *Tessere, 3046* 
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Scrambling to her feet, Viktoria tried sprinting away from the crew of demons now charging towards her. Some of the demons resembled the ones she saw before, vaguely humanoid with long, thorny tentacles where their arms should have been. Some seemed larger and more  stocky, nearly as large as a bull. All six figures posessed the skin covered yellow glowing eyes which seemed to consume her thoughts as she fought to escape. Before she could, however, a tentacle wrapped around her ankle, a sharp thorn piercing deep into her flesh as it began to constrict and pull her towards them.
