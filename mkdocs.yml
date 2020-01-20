@@ -14,4 +14,4 @@ nav:
 theme:
     name: readthedocs
     titles_only: true
-extra_css: [/css/custom.css]
+extra_css: [css/custom.css]
