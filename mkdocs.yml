@@ -8,4 +8,4 @@ nav:
     - Chapter 6: chap6.md
 theme: readthedocs
 extra_css: 
-    - custom.css
+    - css/custom.css
