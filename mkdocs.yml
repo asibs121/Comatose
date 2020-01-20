@@ -7,3 +7,5 @@ nav:
     - Chapter 5: chap5.md
     - Chapter 6: chap6.md
 theme: readthedocs
+extra_css: 
+    - custom.css

@@ -1,6 +1,6 @@
 
 
-## Chapter 6
+# Chapter 6
 
 **1/19/20**
 
