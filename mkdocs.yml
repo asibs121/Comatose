@@ -2,6 +2,7 @@ site_name: Comatose
 nav:
     - Meta:
         - Home: index.md
+        - Glossary: glossary.md
         - Projects: projects.md
         - Survey: "https://docs.google.com/forms/d/e/1FAIpQLSemjv1OPh7DzZj4kYXG5EsBx-ZADeGRU9DYp_-g9kKkR3-u8w/viewform"
     - Story:
