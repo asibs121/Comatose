@@ -1,3 +1,18 @@
-li.toctree-l2:first-child {
+li.toctree-l2 {
+    display: none;
+}
+li.toctree-l3 {
+    display: none;
+}
+li.toctree-l4 {
+    display: none;
+}
+a.toctree-l2 {
+    display: none;
+}
+a.toctree-l3 {
+    display: none;
+}
+a.toctree-l4 {
     display: none;
 }
