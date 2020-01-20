@@ -4,6 +4,7 @@
 
 **11/8/18**
 
+---
 *Albania, 2026*
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Lara had been walking home from the hospital for the better part of an hour now, her feet sore, her eyes were weary, but most unfortunate of all, her mind was shattered. She was worried about Viktoria, suddenly slipping into a coma for seemingly no reason. Viktoria had been lucky Lara was visiting her the day she slipped into her slumber, otherwise God knows what might have occurred. To make matters worse, political tensions were growing in Albania. They hadn’t always been peaceful, hell they’d been ramping up slightly over the course of the last few months. But last night, an assassination attempt made on President Prifti truly marked what could be a truly devastating uprising. Albania was by no means a large country, narrowing in towards 3,000,000 people in population. Lara was worried, because she knew that if the government fell, she and her family were at risk.

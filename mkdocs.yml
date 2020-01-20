@@ -1,5 +1,9 @@
 site_name: Comatose
 nav:
+    - Meta:
+        - Home: index.md
+        - Projects: projects.md
+        - Survey: "https://docs.google.com/forms/d/e/1FAIpQLSemjv1OPh7DzZj4kYXG5EsBx-ZADeGRU9DYp_-g9kKkR3-u8w/viewform"
     - Story:
         - Chapter 1: chap1.md
         - Chapter 2: chap2.md
@@ -7,6 +11,7 @@ nav:
         - Chapter 4: chap4.md
         - Chapter 5: chap5.md
         - Chapter 6: chap6.md
-theme: 
+theme:
     name: readthedocs
     titles_only: true
+extra_css: [/css/custom.css]

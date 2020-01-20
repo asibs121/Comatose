@@ -4,6 +4,7 @@
 
 **1/17/20**
 
+---
 *Tessere, 3046*
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Emerging from the ruined house that they had encountered, Viktoria and Uni cautiously made their way through the neighborhood, careful not to cause unnecessary trouble. Viktoria peered across the yard, checking to make sure no demons knew of her presence there. All clear, she surmised, pressing onwards across the yard. As she approached the street in front, she observed the sleek, metallic surface. “Metal roads? I know it’s the future and all, but what’s the purpose of that?” she thought to herself, lightly scraping the heel of her boots into the weathered surface of the street.

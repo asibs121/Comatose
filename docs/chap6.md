@@ -4,6 +4,7 @@
 
 **1/19/20**
 
+---
 *Albania, 2026*
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The machines hooked up to Viktoria continued to beep furiously, pulling Lara from her slumber. In a panicked fury, Lara jumped up from the chair she lay in and slammed the nurse call button. Something unusual caught her eye however...

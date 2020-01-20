@@ -8,4 +8,4 @@ Viktoria Moreno, a 23 year old Albanian bartender finds herself waking up in a c
 
 ## Authors Note
 
-I am not  a professional writer, nor do I read enough to even qualify for someone who should be writing, but here I am. If you would like to help by making suggestions or pointing out flaws in what I have writen, please follow [this](https://forms.gle/HyFEi5B8Cy6jvsH1A) link and offer suggestions as to how I can improve what I have done. This will allow me to learn more, as well as keep the story good up-to-date and well written. I appreciate your time!
+I am not a professional writer, nor do I read enough to even qualify for someone who should be writing, but here I am. If you would like to help by making suggestions or pointing out flaws in what I have writen, please click the 'Survey' link in the table of contents and give me your feedback. It is greatly appreciated, and I hope to improve as a writer with your help.

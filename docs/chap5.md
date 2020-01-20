@@ -4,7 +4,7 @@
 
 **1/19/20**
 
-*Kind of a laid back chapter where not much seems to occur, but it needs to happen to deliver for future chapters. Stay tuned!*
+***Authors Note:** Kind of a laid back chapter where not much occurs, but it needs to happen to deliver for future chapters. Stay tuned!*
 
 ---
 *Tessere, 3046*
