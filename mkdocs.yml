@@ -1,11 +1,12 @@
 site_name: Comatose
 nav:
-    - Chapter 1: chap1.md
-    - Chapter 2: chap2.md
-    - Chapter 3: chap3.md
-    - Chapter 4: chap4.md
-    - Chapter 5: chap5.md
-    - Chapter 6: chap6.md
+    - Story:
+        - Chapter 1: chap1.md
+        - Chapter 2: chap2.md
+        - Chapter 3: chap3.md
+        - Chapter 4: chap4.md
+        - Chapter 5: chap5.md
+        - Chapter 6: chap6.md
 theme: readthedocs
 extra_css: 
     - css/custom.css
