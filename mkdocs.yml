@@ -1,5 +1,8 @@
 site_name: Comatose
 nav:
+    - About:
+        -Home: index.md
+        -About: about.md
     - Story:
         - Chapter 1: chap1.md
         - Chapter 2: chap2.md
