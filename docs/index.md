@@ -4,7 +4,7 @@ Welcome to Comatose! A story project that I've been writing for some time now, w
 
 ## Summary
 
-Viktoria Moreno, a 23 year old Albanian bartender finds herself waking up in a cold, dead world as opposed to her bed. Upon meeting Uni, an artificial intelligence built by the former inhabitants of the world, she learns she's been sent into the future, one which Humanity struggles to fight against extinction. Meanwhile, her family struggles to protect her comatose body from the revolution rocking their country. 
+Viktoria, a 23 year old Albanian bartender, has awoken in a strange and unfamiliar world, one full of death and decay, one conquered by demons. The worlds inhabitants now lie in massive pits, their corpses rotting away as the weeks go by. Upon discovering a wandering AI that escaped the carnage, Viktoria learns about the fate of this world, as well as how to fend off the swarms of demons that seek to maintain their genocidal campaign against a spacefaring humanity. A thousand years in the past, Viktoria's family seeks to discover why she mysteriously slipped into a coma, and fight to defend themselves from the revolution taking place outside. The mystery remains of her purpose being sent to the world of Tessere, a full 1000 years into the future, remain out of reach, at least for now.
 
 ## Authors Note
 

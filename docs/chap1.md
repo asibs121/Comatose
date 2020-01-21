@@ -5,7 +5,7 @@
 **11/6/18**
 
 ---
-*Tessere, 3026*
+*Tessere, 3046*
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Viktoria woke up, her hazel eyes darting across the ceiling; rather, where the ceiling should have been. Instead of awakening in her cramped bedroom as she had done every day for the past 23 years of her life, she was instead lying on the ground in this cold, dark crypt, where the only light came from glowing mushrooms. Feeling beneath her legs where she lay, she felt the cool, moist moss coating the rock she lay on. Feeling the earthy, dewy life beneath her confused her even more than her being in a foreign environment. “Where in the hell am I…” she muttered under her breath, pulling herself to her feet. She found herself dizzy as she felt her way around the cave, feeling the cold cave walls. A feeling overtook her entire body, radiating from her core to her hands and feet- dread. Steadily moving forward, careful not to step into any crevasses, Viktoria made her way through the dark cave, carefully tiptoeing through the hole she had found herself in. Ahead, a glare of rusty red light shone through what looked to be an opening in the cave. Not a big one, she might be able to squeeze her body through the gap. As she drew closer to the wall, a smoky, rotten scent overtook her nostrils, and she began to gag and cough at the stench. Peering through the gap, she could see outside the cave now. A sky full of rumbling storms were cast overhead a forest of what appeared to be burning trees, flames soaring for what seemed like kilometers into the sky.
 
