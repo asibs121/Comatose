@@ -21,28 +21,28 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Arriving at the room, Viktoria remained in her slumber, her bed covered in glass shards and her ears bleeding as her eardrums were ruptured in the blast. 
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Slamming toe door shut behind her and turning the lock shut, Lara silenced herself and listened as the gunfire worked its way up the stairs. She knew they were after her father, but the assailants seemed to be indiscriminant in their massacre. She prayed her mother reached her father in time. 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Slamming the door shut behind her and turning the lock shut, Lara silenced herself and listened as the gunfire worked its way up the stairs. She knew they were after her father, but the assailants seemed to be indiscriminant in their massacre. She prayed her mother reached her father in time. 
 
 ---
 *Tessere, 3046*
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;My name is Viktoria. Who are you?
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"My name is Viktoria. Who are you?" Viktoria repeated, slowly presenting herself in a less threatening manner.
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The girl only looked on in confusion. She looked young, maybe in her mid teens.
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"Viktoria, remember you aren't from this time, there are no native Albanian speakers remaining." Uni said, facing Viktoria. "Dack’shuma? Maid've Viktoria ani Una 312. Masten'i Paes." Uni said, now facing the startled girl.
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;She'd grown used to an Albanian speaking Uni, so hearing it speak in the modern language was unusual to Viktoria. The two conversed, and the girl seemed noticeably less stressed at the sudden encounter.
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"Viktoria, you are likely going to need a translator to communicate directly with Bena here. Until we find a proper personal communication device, you can discuss through myself. 
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"To summarize Bena's situation, she was separated from her parent's at the onset of the demon invasion, and has been taking cover down here since then, rarely making trips to the surface for food."
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Victoria listened intently to Uni, but something else about Bena caught her eye. Bena's clothes were slightly tattered, with occasional tears revealing skin beneath her. Near her collarbone a tear revealed a golden shimmer.
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Bena moved slightly, and Viktoria saw a familiar shimmer reflecting off the object, which slightly revealed a reddish crystaline structure beneath it.
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;She had an identical pendant around her neck to Viktoria's.
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
