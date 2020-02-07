@@ -52,6 +52,6 @@
 ---
 *Albania, 2026*
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Laras sobs cut short, as she felt Viktoria suddenly twitch, almost in response to her pleading a minute prior. Almost telepathically, a voice rang through her head.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Lara's sobs cut short, as she felt Viktoria suddenly twitch, almost in response to her pleading a minute prior. Almost telepathically, a voice rang through her head.
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "Lara, can you hear me?"
