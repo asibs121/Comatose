@@ -1,3 +1,7 @@
+body {
+    color: #f3f3f3;
+}
+
 li.toctree-l2 {
     display: none;
 }
@@ -25,13 +29,14 @@ a.toctree-l4 {
 }
 
 .wy-nav-content {
-    border-right-style: solid;
-    border-left-style: solid;
-    border-color:gray;
-    border-width: 22px;
+    background-color: #272525;
 }
 
 .wy-nav-content-wrap {
     background: 
     rgba(39, 37, 37);
+}
+
+.wy-nav-top {
+    background: #B92929;
 }
