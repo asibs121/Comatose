@@ -89,7 +89,7 @@ pre code {
  * https://github.com/mkdocs/mkdocs/issues/718
  */
 a code {
-    color: #B92929;;
+    color: #2980B9;
 }
 a:hover code {
     color: #3091d1;
