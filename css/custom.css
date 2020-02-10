@@ -16,3 +16,22 @@ a.toctree-l3 {
 a.toctree-l4 {
     display: none;
 }
+.wy-side-nav-search {
+    background-color: #B92929;
+}
+.wy-side-nav-search input[type="text"] {
+    border-color: 
+    #a42424;
+}
+
+.wy-nav-content {
+    border-right-style: solid;
+    border-left-style: solid;
+    border-color:gray;
+    border-width: 22px;
+}
+
+.wy-nav-content-wrap {
+    background: 
+    rgba(39, 37, 37);
+}
