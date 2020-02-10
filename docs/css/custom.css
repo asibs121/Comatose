@@ -2,24 +2,6 @@ body {
     color: #f3f3f3;
 }
 
-li.toctree-l2 {
-    display: none;
-}
-li.toctree-l3 {
-    display: none;
-}
-li.toctree-l4 {
-    display: none;
-}
-a.toctree-l2 {
-    display: none;
-}
-a.toctree-l3 {
-    display: none;
-}
-a.toctree-l4 {
-    display: none;
-}
 .wy-side-nav-search {
     background-color: #B92929;
 }
@@ -39,4 +21,22 @@ a.toctree-l4 {
 
 .wy-nav-top {
     background: #B92929;
+}
+.wy-menu-vertical li.on a, .wy-menu-vertical li.current > a {
+    background: #838383;
+}
+
+a {
+    color: #81b4d7;
+}
+
+a:hover {
+    color: #9cd7ff;
+}
+
+a:visited {
+    color: #D78989;
+}
+.wy-table-odd td, .wy-table-striped tr:nth-child(2n-1) td, .rst-content table.docutils:not(.field-list) tr:nth-child(2n-1) td {
+    background-color: #f3f6f600;
 }

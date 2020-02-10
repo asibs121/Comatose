@@ -1,5 +1,5 @@
 site_name: Comatose
-nav:
+pages:
     - Meta:
         - Home: index.md
         - Glossary: glossary.md
@@ -16,5 +16,5 @@ nav:
         - Chapter 8: chap8.md
         - Chapter 9: chap9.md
 theme:
-    name: readthedocs
+    name: rtd-dropdown
 extra_css: [css/custom.css]

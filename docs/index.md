@@ -1,4 +1,8 @@
-# Welcome to Comatose!
+# Home
+
+---
+
+## Welcome to Comatose!
 
 Welcome to Comatose! A story project that I've been writing for some time now, whenever I care to work on it. I work at my own pace, so it might be a while between chapters. Please be patient, writers block is a thing.
 
