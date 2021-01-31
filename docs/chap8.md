@@ -4,16 +4,14 @@
 
 **2/6/20**
 
-***Authors Note**: Hot minute break, school and personal stuff, you know the drill.*
-
 ---
 *Albania, 2026*
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Sirens echoed through Tirana Albania, as police, ambulances, and other emergency vehicles moved through the already congested streets. It had only been minutes since the explosion struck the hospital, and emergency services which had arrived at the scene already confirmed that over thirty people were killed in the explosion, and the massacre within the hospital. The assailants were still inside the hospital, and while the gunfire seemed to have stopped, no one dared enter the hospital to neutralize the terrorists. 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Sirens echoed through Tirana Albania, as police, ambulances, and other emergency vehicles moved through the already congested streets. It had only been minutes since the explosion struck the hospital, and emergency services which had arrived at the scene already confirmed that over thirty people were killed in the explosion, and the massacre within the hospital. The assailants were still inside the hospital, and while the gunfire seemed to have stopped, no one dared enter the building to neutralize the terrorists. 
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Lara and Viktoria were still trapped in the room, and while they had evaded the assailants for now, it didn't take long before somene tried to force their way in. The chair propped in front of the door had held, thankfully, but it was only a matter of time before it was pushed aside.
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"Someone's in here!" she heard from outside the door. A loud thump echoed through the door, followed by gunfire seemingly aimed at the door handle. A number of shots lodged themselves in the wooden door, but a number tore through, filling the room with dust and sawdust.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"Someone's in here!" she heard from outside the door. A loud thump echoed through the door, followed by gunfire seemingly aimed at the door handle. A number of shots lodged themselves in the wooden door, but a number tore through, filling the room with dust and shrapnell.
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Lara screamed, and began frantically moving Viktoria from the bed to the floor. Viktoria's comatose body clumsily slid to the floor, sprawling out across the floor between the shattered window and the bedframe.
 
