@@ -4,8 +4,6 @@
 
 **<date>**
 
-***Authors Note**: Some gross descriptions are present in this chapter, relating to decomposition. If this is something you are sensitive to, read at your own discretion, otherwise skip to Lara's section.*
-
 ---
 
 *Tessere, 3046*
@@ -36,9 +34,9 @@
 
 *Albania, 2026*
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; It had been days since the attack at the hospital. The dust had finally settled, and Lara had finally been able to seek help. She hadn't wanted to, as with the chaos that had unfolded the last few days, it was hard to know who to trust. But, unfortunately, dire circumstances led her to seek desperate measures, and so she sought help. President Prifti still maintained power, but what started as a mere group of pathetic strongmen was quickly unfolding into a civil war. Worse yet, international response had been all but useless, with the rest of the world either making useless condemnations with no real support, or in the case of the fascist-led Brazil, military support was provided for the rebels themselves against Albanian leadership. 
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Her parents still had not been found, and given the state her father had been in prior to the blast, Lara could only fear the worst. 
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
